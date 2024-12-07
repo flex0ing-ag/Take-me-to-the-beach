@@ -28,4 +28,4 @@ I'm open to contributions! Feel free to fork the repo, make changes, and send a 
 Let's collaborate!
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
+This project is open-source and available under the MIT License.
