@@ -14,5 +14,18 @@ Welcome to the "Take Me to the Beach" project! This website showcases some of th
 ## Demo 
 Visit my website: [Take me to the beach](https://flex0ing-ag.github.io/Take-me-to-the-beach/)
 
+## Contributing to Take-me-to-the-Beach
+I'm open to contributions! Feel free to fork the repo, make changes, and send a pull request.
+
+1. Fork the repo
+2. Clone your fork:  
+   `git clone https://github.com/your-username/PinPilot.git`
+3. Create a branch:  
+   `git checkout -b your-feature`
+4. Commit and push your changes
+5. Open a pull request
+
+Let's collaborate!
+
 ## License
 Distributed under the MIT License. See LICENSE for more information.
