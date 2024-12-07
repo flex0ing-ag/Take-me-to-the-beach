@@ -7,9 +7,9 @@ Welcome to the "Take Me to the Beach" project! This website showcases some of th
 3. Dark/Light Mode: Toggle between dark and light themes for better readability and user comfort.
 
 ## Technologies Used
-[-] HTML: For structuring the content.
-[-]CSS: For styling the website.
-[-]JavaScript: For interactive elements, including the dark/light mode toggle.
+- HTML: For structuring the content.
+- CSS: For styling the website.
+- JavaScript: For interactive elements, including the dark/light mode toggle.
 
 ## Demo 
 Visit my website: [Take me to the beach](https://flex0ing-ag.github.io/Take-me-to-the-beach/)
